@@ -11,14 +11,14 @@
 #define _PORT_CONFIG_H_
 
 /*Select PORTA Pins direction 0 as INPUT 1 as OUTPUT*/
-#define PORTA_PIN0_DIR	0
-#define PORTA_PIN1_DIR  0
-#define PORTA_PIN2_DIR  0
-#define PORTA_PIN3_DIR  0
-#define PORTA_PIN4_DIR  0
-#define PORTA_PIN5_DIR  0
-#define PORTA_PIN6_DIR  0
-#define PORTA_PIN7_DIR  0
+#define PORTA_PIN0_DIR	1
+#define PORTA_PIN1_DIR  1
+#define PORTA_PIN2_DIR  1
+#define PORTA_PIN3_DIR  1
+#define PORTA_PIN4_DIR  1
+#define PORTA_PIN5_DIR  1
+#define PORTA_PIN6_DIR  1
+#define PORTA_PIN7_DIR  1
 
 /*Select PORTB Pins direction 0 as INPUT 1 as OUTPUT*/
 #define PORTB_PIN0_DIR	0
